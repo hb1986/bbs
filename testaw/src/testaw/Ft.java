@@ -3,7 +3,7 @@ package testaw;
 public class Ft {
 
 	public static void main(String[] args) {
-		// TODO 自动生成的方法存根
+		// TODO
 		System.out.println("test");
 	}
 
